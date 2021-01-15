@@ -5,9 +5,10 @@
       "CONTAINERMODE": "pandorabots",
       "PANDORABOTS_BOTKEY": "n0M6dW2XZacnOgCWTp0FRYUuMjSfCkJGgobNpgPv9060_72eKnu3Yl-o1v2nFGtSXqfwJBG2Ros~",
       "PANDORABOTS_APIHOST": "miapi.pandorabots.com",
+      "PANDORABOTS_CLIENT_NAME": "kukilp-17705df938e",
       "SIMPLEREST_HEADERS_TEMPLATE": {
         "Origin": "https://www.pandorabots.com",
-        "Referer": "https://www.pandorabots.com/mitsuku/"
+        "Referer": "https://www.pandorabots.com/"
       }
     }
   }
